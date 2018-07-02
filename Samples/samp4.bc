@@ -1,0 +1,8 @@
+$a = $b
+$b = not(xor(ls(2345,1), ff00))
+$a = $c | $b & cad
+$d = (not($b) | not($a))
+$a
+$b
+$c
+$d

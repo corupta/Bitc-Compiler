@@ -1,0 +1,18 @@
+I'm using Ubuntu 16.04.
+
+I tried to find out how I could use a86 in ubuntu.
+I decided that I should use either dosbox or a vm of windows
+
+I used the windows xp image our instructor has sent, to use in a vm.
+
+I experimented with some example assembly files I have written and got used to a86 in vm.
+
+Later, I wrote the code in ubuntu CLion (Also, I compiled it using CLion, which means cmake, which means g++)
+
+I used the sample files in Ubuntu and ran my program to create outputs, and then, copied the output files to the vm (via uploading to my cloud site to transfer files between vm and my computer)
+
+I used \r\n in the document to be able to see the output files more clearly in windows xp. (insted of \n, although \n worked fine with the a86 assembler)
+
+Halit Özsoy
+2016400141
+CMPE 230 - HW 1

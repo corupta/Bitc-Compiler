@@ -1,0 +1,8 @@
+$xx = 100f
+$yy = f001
+$zz= ($xx | $yy) & ab12
+$yy = xor($xx,11) not(23fe)
+$xx = ls($yy, 2)
+$zz
+$yy
+$xx

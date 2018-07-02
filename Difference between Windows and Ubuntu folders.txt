@@ -1,0 +1,5 @@
+I wrote the program in Ubuntu but made two versions with very slight difference:
+
+In ubuntu version, endlines are \n
+
+But in windows version, endlines are \r\n

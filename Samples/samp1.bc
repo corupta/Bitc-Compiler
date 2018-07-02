@@ -1,0 +1,6 @@
+$x = 1a0f
+$y = bb
+$x=$x & not($y)
+$y = rs($x,1)
+$x
+$y
