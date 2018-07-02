@@ -4,7 +4,7 @@
 ## Project Details
 That's a project I've created as a university homework for the course, CMPE 230 - Systems Programming on Nov 4th, 2017.
 
-What is BITC and what the project was about can be found via [Project.pdf](https://github.com/corupta/Bitc-Compiler/blob/master/Project.pdf)
+What BITC is and what the project is about can be found via [Project.pdf](https://github.com/corupta/Bitc-Compiler/blob/master/Project.pdf)
 
 Basically, that's a cpp project that reads a .bc file (Code written in a simple programming language, BITC) and generates an a86 assembly .asm file for that code. The .asm file can be compiled with the [A86 Compiler](http://www.eji.com/a86/) on Windows XP or on DOSBox.
 
