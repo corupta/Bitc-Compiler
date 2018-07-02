@@ -16,14 +16,14 @@ The "bitc.cpp" file in either for [Windows](https://github.com/corupta/Bitc-Comp
 * Open a Windows Command Prompt (type cmd on Start Menu or Press Windows + R and type cmd)
 * Change directory in the command prompt to the place where the bit.cpp is downloaded.
 * Type _g++ bit.cpp -o bitc_ on the command prompt to compile the project.
-* Now, you can use the created "bitc" executable to compile .bc files. Check out below "Run" section.
+* Now, you can use the created "bitc" executable to compile .bc files. Check out the below [Run](https://github.com/corupta/Bitc-Compiler/blob/master/README.md#run) section.
 
 ### On Ubuntu:
 * Download [bitc.cpp](https://github.com/corupta/Bitc-Compiler/blob/master/Windows/bitc.cpp) or [Linux](https://github.com/corupta/Bitc-Compiler/blob/master/Ubuntu/bitc.cpp)
 * Open a Terminal Window (Press Ctrl + Alt + T or Press super button and type Terminal)
 * Change directory in the terminal to the place where the bit.cpp is downloaded.
 * Type _g++ bit.cpp -o bitc_ on the command prompt to compile the project.
-* Now, you can use the created "bitc" executable to compile .bc files. Check out below "Run" section.
+* Now, you can use the created "bitc" executable to compile .bc files. Check out the below [Run](https://github.com/corupta/Bitc-Compiler/blob/master/README.md#run) section.
 
 ## Run
 You can compile .bc (BITC files) by using the command “./bitc [input_file].bc” and it should create a file “[input_file].asm”
